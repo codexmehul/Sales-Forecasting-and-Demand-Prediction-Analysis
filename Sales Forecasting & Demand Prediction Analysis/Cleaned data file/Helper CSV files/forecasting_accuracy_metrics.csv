@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE_%
+3-Month Moving Average,18114.0,23464.87,50.44
+Linear Trend Regression,17339.07,21712.12,43.88
+Holt-Winters Exponential Smoothing,7290.36,9107.47,16.35
